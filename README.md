@@ -27,13 +27,10 @@ Mục tiêu của dự án là thiết kế một ứng dụng di động giúp 
 ## Công cụ sử dụng
 
 - Figma
-- Auto Layout
-- Prototype
-- Smart Animate
 
 ## Quy trình thực hiện
 
-- Nghiên cứu người dùng (User Research)
+- Nghiên cứu người dùng
 - Khảo sát người dùng
 - Persona
 - User Journey
